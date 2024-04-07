@@ -18,4 +18,4 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=marajhossaincse&" alt="marajhossaincse" /></p>
 
-<img src="https://raw.githubusercontent.com/marajhossaincse/marajhossaincse/output/snake.svg"/>
+<img src="https://raw.githubusercontent.com/marajhossaincse/marajhossaincse/output/snake.svg" alt = "Snake animation"/>
