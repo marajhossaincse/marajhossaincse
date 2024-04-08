@@ -14,10 +14,9 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=marajhossaincse&show_icons=true&locale=en&layout=compact" alt="marajhossaincse" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=marajhossaincse&show_icons=true&locale=en" alt="marajhossaincse" /></p>
-
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=marajhossaincse&" alt="marajhossaincse" /></p>
-
+###
 <br clear="both">
 
 <img src="https://raw.githubusercontent.com/marajhossaincse/marajhossaincse/output/snake.svg" alt = "Snake animation"/>
+###
