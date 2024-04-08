@@ -1,5 +1,6 @@
-<h1 align="center">Hi 👋, I'm Maraj</h1>
-<h3 align="center">An  enthusiast.</h3>
+### Hi there, I'm [Maraj Hossain](https://github.com/marajhossaincse) 👋
+
+I completed my Bachelors in Computer Science and Engineering from [North South University](https://www.northsouth.edu/), Bangladesh. Apart from that, I am currently focusing in native iOS development, looking forward to expand my expertise in mobile app development. 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=marajhossaincse&label=Profile%20views&color=0e75b6&style=flat" alt="marajhossaincse" /> </p>
 
