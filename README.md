@@ -18,6 +18,4 @@ I completed my Bachelors in Computer Science and Engineering from [North South U
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=marajhossaincse&" alt="marajhossaincse" /></p>
 ###
 <br clear="both">
-
-<img src="https://raw.githubusercontent.com/marajhossaincse/marajhossaincse/output/snake.svg" alt = "Snake animation"/>
 ###
