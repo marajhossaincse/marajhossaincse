@@ -13,7 +13,7 @@ I'm an iOS developer with a Computer Science degree from [North South University
 - 🔭 Currently deepening expertise in Swift concurrency and modern Apple frameworks
 - 🌱 Continuously improving my iOS app architecture skills
 - 💬 Ask me about Swift, SwiftUI, or iOS development
-- 📫 Reach me at **marajhossaincse@gmail.com**
+- 📫 Reach me at **maraj9hossain@gmail.com**
 
 ---
 
